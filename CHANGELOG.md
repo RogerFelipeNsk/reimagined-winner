@@ -4,6 +4,18 @@ Todas as mudanças notáveis neste projeto serão documentadas neste arquivo.
 O formato segue o padrão Keep a Changelog, e o versionamento segue o SemVer.
 
 [Unreleased]
+🛠️ Alterado
+Melhorada a experiência de autenticação em dispositivos móveis com suporte a Touch ID e Face ID.
+
+[1.4.1] - 2024-07-15
+🆕 Adicionado
+Sistema de pesquisa inteligente com suporte a operadores booleanos e filtros avançados.
+🛠️ Alterado
+Melhorias na otimização de consultas SQL para tornar mais eficientes as buscas em grandes volumes de dados.
+🐛 Corrigido
+Corrigido problema de renderização de elementos flutuantes em certas resoluções de tela.
+
+[1.4.0] - 2024-07-10
 🆕 Adicionado
 Novo sistema de notificações em tempo real: Agora os usuários receberão notificações instantâneas para eventos importantes, como mensagens, atualizações de pedidos e mudanças de status.
 🛠️ Alterado
