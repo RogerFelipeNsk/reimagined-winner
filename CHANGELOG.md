@@ -5,6 +5,14 @@ O formato segue o padrão Keep a Changelog, e o versionamento segue o SemVer.
 
 [Unreleased]
 🆕 Adicionado
+Novo sistema de notificações em tempo real: Agora os usuários receberão notificações instantâneas para eventos importantes, como mensagens, atualizações de pedidos e mudanças de status.
+🛠️ Alterado
+Melhorada a experiência de carregamento da página inicial, reduzindo o tempo de resposta em 30%.
+🐛 Corrigido
+Corrigido problema onde notificações não eram marcadas como lidas ao serem abertas.
+
+[1.3.0] - 2024-06-15
+🆕 Adicionado
 Suporte para múltiplos usuários na dashboard.
 Endpoint /api/health para monitoramento do sistema.
 Nova funcionalidade de exportação de relatórios em CSV.
