@@ -3,7 +3,11 @@ Todas as mudanças notáveis neste projeto serão documentadas neste arquivo.
 
 O formato segue o padrão Keep a Changelog, e o versionamento segue o SemVer.
 
-[unreleased] - 2024-07-20
+[unreleased] - 2025-02-10
+🛠️ Alterado
+Melhorada a experiência de autenticação em dispositivos móveis com suporte a Touch ID e Face ID.
+
+[1.5.0] - 2024-07-20
 🛠️ Alterado
 Melhorada a experiência de autenticação em dispositivos móveis com suporte a Touch ID e Face ID.
 
