@@ -3,7 +3,11 @@ Todas as mudanças notáveis neste projeto serão documentadas neste arquivo.
 
 O formato segue o padrão Keep a Changelog, e o versionamento segue o SemVer.
 
-[Unreleased]
+[unreleased] - 2024-07-20
+🛠️ Alterado
+Melhorada a experiência de autenticação em dispositivos móveis com suporte a Touch ID e Face ID.
+
+[1.4.3]
 ➕ Adicionado:
 Implementação de um novo painel de administração para gerenciamento de usuários com recursos de pesquisa avançada e gerenciamento de permissões.
 
