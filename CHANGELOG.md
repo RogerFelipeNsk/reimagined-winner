@@ -7,6 +7,10 @@ O formato segue o padrão Keep a Changelog, e o versionamento segue o SemVer.
 🛠️ Alterado
 Melhorada a experiência de autenticação em dispositivos móveis com suporte a Touch ID e Face ID.
 
+[1.5.3] - 2025-02-11
+🛠️ Alterado
+Melhorada a experiência de autenticação em dispositivos móveis com suporte a Touch ID e Face ID.
+
 [1.5.2] - 2025-02-11
 🛠️ Alterado
 Melhorada a experiência de autenticação em dispositivos móveis com suporte a Touch ID e Face ID.
