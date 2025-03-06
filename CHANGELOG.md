@@ -6,6 +6,42 @@ O formato segue o padrão Keep a Changelog, e o versionamento segue o SemVer.
 [unreleased] - 2025-03-06
 
 ### 🚀 Adicionado
+- Suporte a modo offline para acesso a determinados recursos sem internet.
+
+### 🛠️ Alterado
+- Ajustada a responsividade do menu lateral em telas menores.
+
+### 🐞 Corrigido
+- Resolvido um bug onde algumas configurações do usuário não eram salvas corretamente.
+
+
+[1.6.3] - 2025-03-06
+
+### 🚀 Adicionado
+- Implementado suporte a notificações via Web Push.
+
+### 🛠️ Alterado
+- Melhorado o tempo de carregamento da página inicial.
+
+### 🐞 Corrigido
+- Corrigido um erro que impedia o logout automático após sessão expirada.
+
+
+[1.6.2] - 2025-03-06
+
+### 🚀 Adicionado
+- Suporte a autenticação via OAuth para integração com serviços de terceiros.
+
+### 🛠️ Alterado
+- Ajustada a exibição de datas para o formato local do usuário.
+
+### 🐞 Corrigido
+- Corrigido um erro onde filtros avançados não eram aplicados corretamente em algumas buscas.
+
+
+[1.6.1] - 2025-03-06
+
+### 🚀 Adicionado
 - Implementado suporte a múltiplos idiomas na interface do usuário, começando com Espanhol e Francês.
 - Criada a funcionalidade de upload e compartilhamento de arquivos diretamente no chat.
 - Adicionado um novo painel de análise com métricas de uso detalhadas.
