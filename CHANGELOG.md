@@ -6,6 +6,18 @@ O formato segue o padrão Keep a Changelog, e o versionamento segue o SemVer.
 [unreleased] - 2025-03-06
 
 ### 🚀 Adicionado
+- Suporte a autenticação via OAuth para integração com serviços de terceiros.
+
+### 🛠️ Alterado
+- Ajustada a exibição de datas para o formato local do usuário.
+
+### 🐞 Corrigido
+- Corrigido um erro onde filtros avançados não eram aplicados corretamente em algumas buscas.
+
+
+[1.6.1] - 2025-03-06
+
+### 🚀 Adicionado
 - Implementado suporte a múltiplos idiomas na interface do usuário, começando com Espanhol e Francês.
 - Criada a funcionalidade de upload e compartilhamento de arquivos diretamente no chat.
 - Adicionado um novo painel de análise com métricas de uso detalhadas.
