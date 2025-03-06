@@ -3,7 +3,22 @@ Todas as mudanças notáveis neste projeto serão documentadas neste arquivo.
 
 O formato segue o padrão Keep a Changelog, e o versionamento segue o SemVer.
 
-[unreleased] - 2025-02-11
+[unreleased] - 2025-03-06
+
+### 🚀 Adicionado
+- Implementado suporte a exportação de relatórios em formato CSV e PDF.
+- Adicionada a opção de personalização de temas no painel de usuário.
+
+### 🛠️ Alterado
+- Melhorado o desempenho da busca global com otimização de índices no banco de dados.
+- Atualizada a biblioteca de autenticação para corrigir possíveis falhas de segurança.
+
+### 🐞 Corrigido
+- Corrigido um erro onde usuários não conseguiam redefinir senhas via e-mail em algumas condições.
+- Resolvido um problema em que notificações push não eram enviadas corretamente para dispositivos iOS.
+
+
+[1.5.5] - 2025-02-11
 🛠️ Alterado
 Melhorada a experiência de autenticação em dispositivos móveis com suporte a Touch ID e Face ID.
 
