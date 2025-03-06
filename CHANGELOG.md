@@ -6,6 +6,18 @@ O formato segue o padrão Keep a Changelog, e o versionamento segue o SemVer.
 [unreleased] - 2025-03-06
 
 ### 🚀 Adicionado
+- Suporte a modo offline para acesso a determinados recursos sem internet.
+
+### 🛠️ Alterado
+- Ajustada a responsividade do menu lateral em telas menores.
+
+### 🐞 Corrigido
+- Resolvido um bug onde algumas configurações do usuário não eram salvas corretamente.
+
+
+[1.6.3] - 2025-03-06
+
+### 🚀 Adicionado
 - Implementado suporte a notificações via Web Push.
 
 ### 🛠️ Alterado
