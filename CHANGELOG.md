@@ -6,6 +6,18 @@ O formato segue o padrão Keep a Changelog, e o versionamento segue o SemVer.
 [unreleased] - 2025-03-06
 
 ### 🚀 Adicionado
+- Implementado suporte a notificações via Web Push.
+
+### 🛠️ Alterado
+- Melhorado o tempo de carregamento da página inicial.
+
+### 🐞 Corrigido
+- Corrigido um erro que impedia o logout automático após sessão expirada.
+
+
+[1.6.2] - 2025-03-06
+
+### 🚀 Adicionado
 - Suporte a autenticação via OAuth para integração com serviços de terceiros.
 
 ### 🛠️ Alterado
