@@ -6,6 +6,36 @@ O formato segue o padrão Keep a Changelog, e o versionamento segue o SemVer.
 [unreleased] - 2025-03-06
 
 ### 🚀 Adicionado
+- Implementado suporte a múltiplos idiomas na interface do usuário, começando com Espanhol e Francês.
+- Criada a funcionalidade de upload e compartilhamento de arquivos diretamente no chat.
+- Adicionado um novo painel de análise com métricas de uso detalhadas.
+- Introduzido um sistema de cache para melhorar a velocidade de carregamento de dashboards.
+
+### 🛠️ Alterado
+- Melhorado o tempo de resposta das requisições API, reduzindo a latência em até 30%.
+- Atualizada a versão do framework para melhorar compatibilidade e segurança.
+- Refinado o design do modo escuro para maior contraste e acessibilidade.
+- Otimizado o carregamento de imagens e recursos estáticos, reduzindo o consumo de banda.
+
+### 🐞 Corrigido
+- Resolvido um problema onde algumas notificações de e-mail eram enviadas duplicadas.
+- Corrigido um erro que impedia a exclusão de contas em determinadas condições.
+- Ajustado um bug na ordenação de registros em tabelas dinâmicas.
+- Corrigido o comportamento inesperado de botões em dispositivos móveis.
+
+### 🔐 Segurança
+- Melhorada a validação de tokens de autenticação para evitar acessos não autorizados.
+- Implementadas novas verificações contra ataques de força bruta na API de login.
+- Adicionada criptografia em repouso para dados sensíveis armazenados no banco.
+
+### 📘 Documentação
+- Atualizados os guias de integração da API com novos exemplos de uso.
+- Melhorada a explicação sobre os parâmetros de configuração no arquivo de ambiente.
+
+
+[1.6.0] - 2025-03-06
+
+### 🚀 Adicionado
 - Implementado suporte a exportação de relatórios em formato CSV e PDF.
 - Adicionada a opção de personalização de temas no painel de usuário.
 
