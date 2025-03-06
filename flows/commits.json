@@ -1,0 +1,248 @@
+[
+    {
+        "sha": "b9557bdd79893380603c046b36a3a66236f2cfc2",
+        "node_id": "C_kwDON2_OW9oAKGI5NTU3YmRkNzk4OTMzODA2MDNjMDQ2YjM2YTNhNjYyMzZmMmNmYzI",
+        "commit": {
+            "author": {
+                "name": "Roger Felipe",
+                "email": "rogerfelipensk@gmail.com",
+                "date": "2025-03-06T03:47:07Z"
+            },
+            "committer": {
+                "name": "Roger Felipe",
+                "email": "rogerfelipensk@gmail.com",
+                "date": "2025-03-06T03:47:07Z"
+            },
+            "message": "Update CHANGELOG.md to document new features, improvements, and bug fixes for version 1.6.1",
+            "tree": {
+                "sha": "542a81ef1667717554b21f5352140e77298d7e7d",
+                "url": "https://api.github.com/repos/RogerFelipeNsk/reimagined-winner/git/trees/542a81ef1667717554b21f5352140e77298d7e7d"
+            },
+            "url": "https://api.github.com/repos/RogerFelipeNsk/reimagined-winner/git/commits/b9557bdd79893380603c046b36a3a66236f2cfc2",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null,
+                "verified_at": null
+            }
+        },
+        "url": "https://api.github.com/repos/RogerFelipeNsk/reimagined-winner/commits/b9557bdd79893380603c046b36a3a66236f2cfc2",
+        "html_url": "https://github.com/RogerFelipeNsk/reimagined-winner/commit/b9557bdd79893380603c046b36a3a66236f2cfc2",
+        "comments_url": "https://api.github.com/repos/RogerFelipeNsk/reimagined-winner/commits/b9557bdd79893380603c046b36a3a66236f2cfc2/comments",
+        "author": {
+            "login": "RogerFelipeNsk",
+            "id": 17113998,
+            "node_id": "MDQ6VXNlcjE3MTEzOTk4",
+            "avatar_url": "https://avatars.githubusercontent.com/u/17113998?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/RogerFelipeNsk",
+            "html_url": "https://github.com/RogerFelipeNsk",
+            "followers_url": "https://api.github.com/users/RogerFelipeNsk/followers",
+            "following_url": "https://api.github.com/users/RogerFelipeNsk/following{/other_user}",
+            "gists_url": "https://api.github.com/users/RogerFelipeNsk/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/RogerFelipeNsk/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/RogerFelipeNsk/subscriptions",
+            "organizations_url": "https://api.github.com/users/RogerFelipeNsk/orgs",
+            "repos_url": "https://api.github.com/users/RogerFelipeNsk/repos",
+            "events_url": "https://api.github.com/users/RogerFelipeNsk/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/RogerFelipeNsk/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "RogerFelipeNsk",
+            "id": 17113998,
+            "node_id": "MDQ6VXNlcjE3MTEzOTk4",
+            "avatar_url": "https://avatars.githubusercontent.com/u/17113998?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/RogerFelipeNsk",
+            "html_url": "https://github.com/RogerFelipeNsk",
+            "followers_url": "https://api.github.com/users/RogerFelipeNsk/followers",
+            "following_url": "https://api.github.com/users/RogerFelipeNsk/following{/other_user}",
+            "gists_url": "https://api.github.com/users/RogerFelipeNsk/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/RogerFelipeNsk/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/RogerFelipeNsk/subscriptions",
+            "organizations_url": "https://api.github.com/users/RogerFelipeNsk/orgs",
+            "repos_url": "https://api.github.com/users/RogerFelipeNsk/repos",
+            "events_url": "https://api.github.com/users/RogerFelipeNsk/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/RogerFelipeNsk/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "b57abd9031f227e4d05512cade9e21f76f442575",
+                "url": "https://api.github.com/repos/RogerFelipeNsk/reimagined-winner/commits/b57abd9031f227e4d05512cade9e21f76f442575",
+                "html_url": "https://github.com/RogerFelipeNsk/reimagined-winner/commit/b57abd9031f227e4d05512cade9e21f76f442575"
+            }
+        ]
+    },
+    {
+        "sha": "4eaf330c6bdd4eac50422efea6ce9f1830d46b63",
+        "node_id": "C_kwDON2_OW9oAKDRlYWYzMzBjNmJkZDRlYWM1MDQyMmVmZWE2Y2U5ZjE4MzBkNDZiNjM",
+        "commit": {
+            "author": {
+                "name": "Roger Felipe",
+                "email": "rogerfelipensk@gmail.com",
+                "date": "2025-03-06T03:51:09Z"
+            },
+            "committer": {
+                "name": "Roger Felipe",
+                "email": "rogerfelipensk@gmail.com",
+                "date": "2025-03-06T03:51:09Z"
+            },
+            "message": "Update CHANGELOG.md to document new features, improvements, and bug fixes for version 1.6.2",
+            "tree": {
+                "sha": "35b1102036de4ad5fcc458bc6bdc6bad5a9b205e",
+                "url": "https://api.github.com/repos/RogerFelipeNsk/reimagined-winner/git/trees/35b1102036de4ad5fcc458bc6bdc6bad5a9b205e"
+            },
+            "url": "https://api.github.com/repos/RogerFelipeNsk/reimagined-winner/git/commits/4eaf330c6bdd4eac50422efea6ce9f1830d46b63",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null,
+                "verified_at": null
+            }
+        },
+        "url": "https://api.github.com/repos/RogerFelipeNsk/reimagined-winner/commits/4eaf330c6bdd4eac50422efea6ce9f1830d46b63",
+        "html_url": "https://github.com/RogerFelipeNsk/reimagined-winner/commit/4eaf330c6bdd4eac50422efea6ce9f1830d46b63",
+        "comments_url": "https://api.github.com/repos/RogerFelipeNsk/reimagined-winner/commits/4eaf330c6bdd4eac50422efea6ce9f1830d46b63/comments",
+        "author": {
+            "login": "RogerFelipeNsk",
+            "id": 17113998,
+            "node_id": "MDQ6VXNlcjE3MTEzOTk4",
+            "avatar_url": "https://avatars.githubusercontent.com/u/17113998?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/RogerFelipeNsk",
+            "html_url": "https://github.com/RogerFelipeNsk",
+            "followers_url": "https://api.github.com/users/RogerFelipeNsk/followers",
+            "following_url": "https://api.github.com/users/RogerFelipeNsk/following{/other_user}",
+            "gists_url": "https://api.github.com/users/RogerFelipeNsk/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/RogerFelipeNsk/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/RogerFelipeNsk/subscriptions",
+            "organizations_url": "https://api.github.com/users/RogerFelipeNsk/orgs",
+            "repos_url": "https://api.github.com/users/RogerFelipeNsk/repos",
+            "events_url": "https://api.github.com/users/RogerFelipeNsk/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/RogerFelipeNsk/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "RogerFelipeNsk",
+            "id": 17113998,
+            "node_id": "MDQ6VXNlcjE3MTEzOTk4",
+            "avatar_url": "https://avatars.githubusercontent.com/u/17113998?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/RogerFelipeNsk",
+            "html_url": "https://github.com/RogerFelipeNsk",
+            "followers_url": "https://api.github.com/users/RogerFelipeNsk/followers",
+            "following_url": "https://api.github.com/users/RogerFelipeNsk/following{/other_user}",
+            "gists_url": "https://api.github.com/users/RogerFelipeNsk/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/RogerFelipeNsk/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/RogerFelipeNsk/subscriptions",
+            "organizations_url": "https://api.github.com/users/RogerFelipeNsk/orgs",
+            "repos_url": "https://api.github.com/users/RogerFelipeNsk/repos",
+            "events_url": "https://api.github.com/users/RogerFelipeNsk/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/RogerFelipeNsk/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "b9557bdd79893380603c046b36a3a66236f2cfc2",
+                "url": "https://api.github.com/repos/RogerFelipeNsk/reimagined-winner/commits/b9557bdd79893380603c046b36a3a66236f2cfc2",
+                "html_url": "https://github.com/RogerFelipeNsk/reimagined-winner/commit/b9557bdd79893380603c046b36a3a66236f2cfc2"
+            }
+        ]
+    },
+    {
+        "sha": "606345a3f1998857dc8b6238ac0e610448b5198e",
+        "node_id": "C_kwDON2_OW9oAKDYwNjM0NWEzZjE5OTg4NTdkYzhiNjIzOGFjMGU2MTA0NDhiNTE5OGU",
+        "commit": {
+            "author": {
+                "name": "Roger Felipe",
+                "email": "rogerfelipensk@gmail.com",
+                "date": "2025-03-06T03:54:28Z"
+            },
+            "committer": {
+                "name": "Roger Felipe",
+                "email": "rogerfelipensk@gmail.com",
+                "date": "2025-03-06T03:54:28Z"
+            },
+            "message": "Update CHANGELOG.md to document new features, improvements, and bug fixes for version 1.6.3",
+            "tree": {
+                "sha": "fc36f347fd6127ce4250765fff04afa9547f3468",
+                "url": "https://api.github.com/repos/RogerFelipeNsk/reimagined-winner/git/trees/fc36f347fd6127ce4250765fff04afa9547f3468"
+            },
+            "url": "https://api.github.com/repos/RogerFelipeNsk/reimagined-winner/git/commits/606345a3f1998857dc8b6238ac0e610448b5198e",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null,
+                "verified_at": null
+            }
+        },
+        "url": "https://api.github.com/repos/RogerFelipeNsk/reimagined-winner/commits/606345a3f1998857dc8b6238ac0e610448b5198e",
+        "html_url": "https://github.com/RogerFelipeNsk/reimagined-winner/commit/606345a3f1998857dc8b6238ac0e610448b5198e",
+        "comments_url": "https://api.github.com/repos/RogerFelipeNsk/reimagined-winner/commits/606345a3f1998857dc8b6238ac0e610448b5198e/comments",
+        "author": {
+            "login": "RogerFelipeNsk",
+            "id": 17113998,
+            "node_id": "MDQ6VXNlcjE3MTEzOTk4",
+            "avatar_url": "https://avatars.githubusercontent.com/u/17113998?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/RogerFelipeNsk",
+            "html_url": "https://github.com/RogerFelipeNsk",
+            "followers_url": "https://api.github.com/users/RogerFelipeNsk/followers",
+            "following_url": "https://api.github.com/users/RogerFelipeNsk/following{/other_user}",
+            "gists_url": "https://api.github.com/users/RogerFelipeNsk/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/RogerFelipeNsk/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/RogerFelipeNsk/subscriptions",
+            "organizations_url": "https://api.github.com/users/RogerFelipeNsk/orgs",
+            "repos_url": "https://api.github.com/users/RogerFelipeNsk/repos",
+            "events_url": "https://api.github.com/users/RogerFelipeNsk/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/RogerFelipeNsk/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "RogerFelipeNsk",
+            "id": 17113998,
+            "node_id": "MDQ6VXNlcjE3MTEzOTk4",
+            "avatar_url": "https://avatars.githubusercontent.com/u/17113998?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/RogerFelipeNsk",
+            "html_url": "https://github.com/RogerFelipeNsk",
+            "followers_url": "https://api.github.com/users/RogerFelipeNsk/followers",
+            "following_url": "https://api.github.com/users/RogerFelipeNsk/following{/other_user}",
+            "gists_url": "https://api.github.com/users/RogerFelipeNsk/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/RogerFelipeNsk/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/RogerFelipeNsk/subscriptions",
+            "organizations_url": "https://api.github.com/users/RogerFelipeNsk/orgs",
+            "repos_url": "https://api.github.com/users/RogerFelipeNsk/repos",
+            "events_url": "https://api.github.com/users/RogerFelipeNsk/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/RogerFelipeNsk/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "4eaf330c6bdd4eac50422efea6ce9f1830d46b63",
+                "url": "https://api.github.com/repos/RogerFelipeNsk/reimagined-winner/commits/4eaf330c6bdd4eac50422efea6ce9f1830d46b63",
+                "html_url": "https://github.com/RogerFelipeNsk/reimagined-winner/commit/4eaf330c6bdd4eac50422efea6ce9f1830d46b63"
+            }
+        ]
+    }
+]
