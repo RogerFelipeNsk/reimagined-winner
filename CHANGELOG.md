@@ -11,6 +11,14 @@ O formato segue o padrão Keep a Changelog, e o versionamento segue o SemVer.
 ### 🛠️ Alterado
 - Ajustada a responsividade do menu lateral em telas menores.
 
+[1.6.5] - 2025-03-06
+
+### 🚀 Adicionado
+- Suporte a modo offline para acesso a determinados recursos sem internet.
+
+### 🛠️ Alterado
+- Ajustada a responsividade do menu lateral em telas menores.
+
 [1.6.4] - 2025-03-06
 
 ### 🚀 Adicionado
